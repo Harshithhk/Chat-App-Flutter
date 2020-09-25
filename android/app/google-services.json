@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763085018211",
+    "firebase_url": "https://chat-app-8abca.firebaseio.com",
+    "project_id": "chat-app-8abca",
+    "storage_bucket": "chat-app-8abca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763085018211:android:196c695822238a2d5fd456",
+        "android_client_info": {
+          "package_name": "co.harshithhk.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763085018211-jkv5sb187chh22reaalu0m7b8b9plekf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4P0dfYxbhn8GED3hYE3mlZBLvAqsatnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763085018211-jkv5sb187chh22reaalu0m7b8b9plekf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
